@@ -1,0 +1,1041 @@
+<zuiprezi>
+  <version>8</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-28225.801831509325" y="-15896.125595581445" width="56451.60366301865" height="31792.25119116289"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="39" type="button" x="1.545615337299791e-12" y="-0.5917335741621935" r="-6.511887983366533e-16" s="52.98629966493208" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.3625447494032</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="18" type="image" x="11037.409114312031" y="11082.44209737208" r="-1.1441786849199017e-15" s="38.3806221294724">
+      <source w="141" h="141">695037699<url>695037699.swf</url></source>
+      <sourceUrl>trash.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>695037699</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/6/e/cd00b3f53e8ca245c69ddc441b2426ada4945.swf</url></resource></object>
+    <object id="19" type="image" x="-932.1357471263532" y="1334.9966155015695" r="-6.733477877289397e-16" s="40.199854660131166">
+      <source w="872" h="480" bt="-0.15" bl="-91.4">695044567<url>695044567.swf</url></source>
+      <sourceUrl>table.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>695044567</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/b/f/d10ecc510921a3ccf5fbbcf90c045e3f8f2f4.swf</url></resource></object>
+    <object id="17" type="image" x="1146.1654572362884" y="6015.707589232047" r="-0.2958498811387737" s="35.13710612761884">
+      <source w="233" h="160">695033745<url>695033745.swf</url></source>
+      <sourceUrl>notebook.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>695033745</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/8/3/92689b682ea6d0d43de06205bfea54493e5bb.swf</url></resource></object>
+    <object id="10" type="image" x="-4107.146591908238" y="-4009.0481351647313" r="4.747131808556516" s="33.571117164258155">
+      <source w="193" h="151">695033727<url>695033727.swf</url></source>
+      <sourceUrl>ipad.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>695033727</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/6/1/c765c868c153904a00d26ae5a2e36ed53a872.swf</url></resource></object>
+    <object id="12" type="image" x="5221.4345824873835" y="-3284.1745068167415" r="2.832313273505498e-31" s="44.30879121244044">
+      <source w="150" h="74">695033729<url>695033729.swf</url></source>
+      <sourceUrl>markers.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>695033729</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/6/5/f1076faf1c66a30335c163ca1ca609ca029c5.swf</url></resource></object>
+    <object id="11" type="image" x="-6551.795231294624" y="8443.689066279536" r="11.914915946650822" s="36.115876103341016">
+      <source w="124" h="14">695033731<url>695033731.swf</url></source>
+      <sourceUrl>marker.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>695033731</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/2/2/aef61aedfbb7f6b206f8628e663c4ed7747fc.swf</url></resource></object>
+    <object id="13" type="image" x="5330.510454542966" y="2557.903079008778" r="-32.21163094373545" s="31.954963418309795">
+      <source w="285" h="345">695033735<url>695033735.swf</url></source>
+      <sourceUrl>iphone.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>695033735</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/2/f0e3c31df01221c6af7b73828bbf34171da58.swf</url></resource></object>
+    <object id="9" type="image" x="11234.236674068352" y="-4990.43826791178" r="19.730130250241825" s="30.060493063960735">
+      <source w="113" h="106">695033725<url>695033725.swf</url></source>
+      <sourceUrl>bus_cards.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>695033725</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/3/5/c5d76be38c178d84da574d727e21010258e35.swf</url></resource></object>
+    <object id="20" type="image" x="-9954.842116782154" y="-1729.1278749352869" r="-10.469205087771968" s="32.08314728542773">
+      <source w="97" h="101">695050269<url>695050269.swf</url></source>
+      <sourceUrl>coffee.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>695050269</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/0/c/1782e2108495914012d015bc2e5ef9e517be5.swf</url></resource></object>
+    <object id="21" type="text" x="-2003.9480547998512" y="3962.7362273042327" r="-0.295849881138749" s="6.832131045333454" class="head">
+      <height>32.68359375</height>
+      <width>-73.98046875</width>
+      <p>
+        <text><![CDATA[Notes]]></text>
+      </p>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    </object>
+    <object id="6" type="image" x="2058.25" y="4545.65" r="-0.2958498811387737" s="1.6485730435713144">
+      <source w="390" h="268">744795135<url>744795135.jpe</url></source>
+    <resource><id>744795135</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/1/5/917b4b413c135465714aa23cd3db4547faea7.jpe</url></resource></object>
+    <object id="22" type="text" x="2934.224196146015" y="3954.475936312274" r="-0.295849881138749" s="6.832131045333454" class="head">
+      <height>32.68359375</height>
+      <width>-382.6640625</width>
+      <p>
+        <text color="16777215"><![CDATA[Public key encrption algorithm]]></text>
+      </p>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    </object>
+    <object id="33" type="button" x="-4099.7499222312135" y="-4021.0800511726816" r="4.7471318085565075" s="6.5710788217917235" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>799</w>
+        <h>455.313894956786</h>
+      </size>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="36" type="button" x="-9974.28622915974" y="-1799.447840772355" r="-14.793133154709176" s="1.967795830465952" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="49_4096537" type="image" x="-9420.847811139898" y="3972.715596126349" r="-10.469205087771968" s="36.69240323149845">
+      <source w="196" h="157">697772069<url>697772069.swf</url></source>
+      <sourceUrl>folder.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+    <resource><id>697772069</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/d/6/bf43fa06ed83e1804b70316f1ad4dda988e89.swf</url></resource></object>
+    <object id="40" type="button" x="-8433.212130341508" y="2756.4390627497955" r="-14.449169707388892" s="2.4005521315310765" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1062</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="44" type="button" x="-727.2746702441459" y="5182.774033702575" r="-0.2958498811387577" s="2.8947920974015404" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1063.749204328453</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="47" type="button" x="9553.35" y="2544.85" r="57.99684946696946" s="2.5442808953533342" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1051.3761467889908</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="50" type="button" x="10917.249743071525" y="-4123.061582714201" r="19.730130250241807" s="1.832190884051219" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1064.0782122905027</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="53" type="button" x="3914.590983951434" y="4382.81879133304" r="-0.29584988113875244" s="19.900328336350512" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1063.6085626911315</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="54" type="button" x="0.4931113118022139" y="-1.1092514012370088e-12" r="-6.500938444146922e-16" s="53.07554455953737" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1063.6085626911315</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="0_13415665" type="text" x="2538.868086269923" y="-12420.708830458712" r="-6.511887983366534e-16" s="78.45462473347825" class="head head-background">
+      <height>32.68359375</height>
+      <width>613.8528033698236</width>
+      <p>
+        <text><![CDATA[Passwordless Authentication for PayPal/Ebay]]></text>
+      </p>
+    </object>
+    <object id="7_4" type="text" x="-4005.693535162332" y="-5153.444945075859" r="4.7471318085564995" s="8.920115313065928" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>452.023807547657</width>
+      <p align="center">
+        <text color="16777215"><![CDATA[Our Aim]]></text>
+      </p>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="33"/>
+      </layout>
+    </object>
+    <object id="24_4" type="text" x="-4076.929348603323" y="-4345.493112156882" r="4.74713180855651" s="6.3090152817934735" class="body">
+      <height>98.05078125</height>
+      <width>644.2880025053271</width>
+      <p>
+        <text><![CDATA[To provide secure authentication for users without password and passwordless oneclick payment/transaction]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="33"/>
+      </layout>
+    </object>
+    <object id="12_4" type="text" x="-10196.984473733202" y="-2212.5965073579255" r="-14.793133154709176" s="5.022219666253476" class="head">
+      <height>65.3671875</height>
+      <width>443.40104345878626</width>
+      <p align="center">
+        <text color="16744448"><![CDATA[Scalable Authentication Framework]]></text>
+      </p>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="36"/>
+      </layout>
+    </object>
+    <object id="25_4" type="text" x="-9948.761916218727" y="-1727.2170090644522" r="-14.793133154709176" s="3.419461463159183" class="body">
+      <height>196.1015625</height>
+      <width>482.42107465978654</width>
+      <p listType="bullet" indent="1">
+        <text color="15724527"><![CDATA[The auth framework is built with ebay/paypal in mind.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="15724527"><![CDATA[This can be provided as a service to 3rd parties.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="15724527"><![CDATA[Authentication as a service from ebay/PayPal!]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="36"/>
+      </layout>
+    </object>
+    <object id="0_4" type="text" x="-8480.913653897855" y="2266.4203340983804" r="-14.449169707388892" s="5.435322854403122" class="strong strong-background">
+      <height>65.3671875</height>
+      <width>452.023807547657</width>
+      <p align="center">
+        <text color="16777215"><![CDATA[Seamless integration with PayPal payment API]]></text>
+      </p>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="40"/>
+      </layout>
+    </object>
+    <object id="1_4" type="text" x="-8775.281476435155" y="2836.4159227400673" r="-14.449169707388892" s="2.991354433098311" class="body body-background">
+      <height>196.1015625</height>
+      <width>560.0837672147547</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[After the authentication process, onclick checkout can be implemented using PayPal API.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="40"/>
+      </layout>
+    </object>
+    <object id="2_4" type="text" x="-734.35" y="4492.2" r="-0.2958498811387712" s="5.178509417842369" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>452.023807547657</width>
+      <p align="center">
+        <text color="16777215"><![CDATA[How secure is this ?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="44"/>
+      </layout>
+    </object>
+    <object id="0" type="image" x="-1523.2897328321417" y="6261.880093363182" r="-0.29584988113875793" s="2.86871463558871">
+      <source w="515" h="358">744750569<url>744750569.jpe</url></source>
+    <resource><id>744750569</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/1/2/5/b22f583d987e1fa0e0f0b37562bee67ebc07c.jpe</url></resource></object>
+    <object id="7" type="image" x="190.4245479221304" y="6806.171149269423" r="-0.2958498811387736" s="5.974229884997245">
+      <source w="308" h="223">744799879<url>744799879.png</url></source>
+    <resource><id>744799879</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/1/a/3466d9ca82e87a85e6159345feedda9a49a25.png</url></resource></object>
+    <object id="3_4" type="text" x="-747.5497136892079" y="5003.423178049882" r="-0.29584988113875815" s="3.5691570079854853" class="body">
+      <height>130.734375</height>
+      <width>644.2880025053271</width>
+      <p>
+        <text><![CDATA[Used in many widely used applications.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Example :SSH(passwordless authentication into remote machine)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="44"/>
+      </layout>
+    </object>
+    <object id="4_4" type="text" x="10127.042126486853" y="2187.848072753148" r="57.99684946696942" s="5.2922819595458686" class="head">
+      <height>32.68359375</height>
+      <width>452.023807547657</width>
+      <p align="center">
+        <text><![CDATA[Public key encryption]]></text>
+      </p>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="47"/>
+      </layout>
+    </object>
+    <object id="5_4" type="text" x="9578.209684095013" y="2579.8497201685495" r="57.996849466969394" s="4.055653063385933" class="body">
+      <height>196.1015625</height>
+      <width>554.3725840150294</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[RSA 1024 bit algorithm]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[RSA is one of the first practicable public-key cryptosystems and is widely used for secure data transmission]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Uniform javascript implementation of the same in both client and server side]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="47"/>
+      </layout>
+    </object>
+    <object id="6_4" type="text" x="11080.712720755491" y="-4518.092587969904" r="19.730130250241807" s="3.2776162947456333" class="strong strong-background">
+      <height>65.3671875</height>
+      <width>452.023807547657</width>
+      <p align="center">
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text color="16777215"><![CDATA[The End]]></text>
+      </p>
+      <meta>
+        <parentTemplate>desktop-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="50"/>
+      </layout>
+    </object>
+    <object id="0_46509659" type="image" x="2261.7914310045244" y="6022.716246420939" r="-0.2958498811387737" s="2.8474388113136553">
+      <source w="410" h="293">744864097<url>744864097.jpe</url></source>
+    <resource><id>744864097</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/3/1/f/a441266e7e4ecc8cc0b368ad310898c5bd221.jpe</url></resource></object>
+    <object id="7_46509659" type="button" x="-11863.060061059832" y="-6236.230637314305" r="-10.469205087771975" s="4.644309681081925" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>925.4347826086956</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_46509659" type="text" x="-11989.1" y="-7210.6" r="-10.46920508777198" s="7.80528411764853" class="strong strong-background">
+      <height>65.3671875</height>
+      <width>315.2109375</width>
+      <p>
+        <text color="16777215"><![CDATA[Sequence Diagram for authentication model]]></text>
+      </p>
+    </object>
+    <object id="10_46509659" type="image" x="-11962.25" y="-6013.55" r="-10.46920508777198" s="1.9878991750643717">
+      <source w="1301" h="634">1244034678<mask x="145" y="0" w="1009" h="634"/>
+      <url>1244034678.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/b/8/a/93fa85579373c543594ab7b37f8d98376d11a.png</sourceUrl>
+    <resource><id>1244034678</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/8/a/93fa85579373c543594ab7b37f8d98376d11a.png</url></resource></object>
+    <object id="11_46509659" type="button" x="3007.705342047583" y="-6069.9091125399755" r="-22.475872701910056" s="4.644309681081922" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>978.2608695652174</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="12_46509659" type="text" x="2526.841867905508" y="-7070.139263319763" r="-22.47587270191005" s="7.403226235518322" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>335.16061972342396</width>
+      <p>
+        <text color="16777215"><![CDATA[Cross platform technology:]]></text>
+      </p>
+    </object>
+    <object id="13_46509659" type="text" x="3121.6953426377813" y="-5824.895103184356" r="-22.47587270191005" s="6.520481318766849" class="body">
+      <height>261.46875</height>
+      <width>552</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[HTML5 web extension (Chrome, Firefox, IE)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[JavaScript for both clientside(browser extension) and serverside(NodeJS authentication server)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[MySQL db store for Serverside]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[IndexedDB db store for clientside ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Cross-domain AJAX based JSON data transfer between extension and server. ]]></text>
+      </p>
+    </object>
+    <object id="14_46509659" type="image" x="-1494.49408570866" y="7860.305135078629" r="-0.2958498811387737" s="3.139479142736717">
+      <source w="321" h="396">744985169<url>744985169.jpe</url></source>
+    <resource><id>744985169</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/6/e/17f2d9a25db9cb1fa265ca2bffd62c23a28dc.jpe</url></resource></object>
+    <object id="0_32648273" type="text" x="-4175.514641957674" y="-3483.5763290205264" r="4.74713180855651" s="6.3090152817934735" class="body">
+      <height>98.05078125</height>
+      <width>635.7105557146219</width>
+      <p>
+        <text color="1657497"><![CDATA[How can we achieve it?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[By using public key encryption algorithms.]]></text>
+      </p>
+    </object>
+    <object id="1_32648273" type="text" x="3078.9238250271183" y="5424.3422159972915" r="-0.2958498811387737" s="6.832131045333454" class="body">
+      <height>32.68359375</height>
+      <width>-326.30859375</width>
+      <p>
+        <text><![CDATA[passwordless authentication]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="43.93591218652458" fadescale="0.050072933291112">
+      <object id="background697858163" type="image" x="3.2254173318088858e-12" y="0" r="0" s="92.51027013652876">
+        <source w="1600" h="1200">697858163<url>697858163.jpg</url></source>
+        <sourceUrl>bg.jpg</sourceUrl>
+      <resource><id>697858163</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/7/6/dd00f35dc84de946f1b5b3aed39b6f182c564.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="39"/>
+    </s>
+    <s>
+      <eagle o="33"/>
+    </s>
+    <s>
+      <eagle o="53"/>
+    </s>
+    <s>
+      <eagle o="44"/>
+    </s>
+    <s>
+      <eagle o="47"/>
+    </s>
+    <s>
+      <eagle o="49_4096537"/>
+    </s>
+    <s>
+      <eagle o="7_46509659"/>
+    </s>
+    <s>
+      <eagle o="10_46509659"/>
+    </s>
+    <s>
+      <eagle o="40"/>
+    </s>
+    <s>
+      <eagle o="36"/>
+    </s>
+    <s>
+      <eagle o="11_46509659"/>
+    </s>
+    <s>
+      <eagle o="9"/>
+    </s>
+    <s>
+      <eagle o="50"/>
+    </s>
+    <s>
+      <eagle o="54"/>
+    </s>
+    <s>
+      <eagle o="17"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NotoSerif-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSerif;
+}
+
+@font-face
+{
+	src: url('OpenSans-XB.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: OpenSansB;
+}
+
+@font-face
+{
+	src: url('NotoSerif-Italic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: normal;
+	font-family: NotoSerif;
+}
+
+@font-face
+{
+	src: url('NotoSerif-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: NotoSerif;
+}
+
+@font-face
+{
+	src: url('NotoSerif-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: NotoSerif;
+}
+
+@font-face
+{
+	src: url('OpenSans-XBI.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: OpenSansB;
+}
+
+@font-face
+{
+	src: url('OpenSans-SB.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: OpenSansB;
+}
+
+@font-face
+{
+	src: url('OpenSans-SBI.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: OpenSansB;
+}
+
+.line1
+{
+	color: #9ccd36;
+	gradEndColor: #9ccd36;
+	gradStartColor: #9ccd36;
+}
+
+.line2
+{
+	color: #e86f15;
+	gradEndColor: #e86f15;
+	gradStartColor: #e86f15;
+}
+
+.line3
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line4
+{
+	color: #00b7d3;
+	gradEndColor: #00b7d3;
+	gradStartColor: #00b7d3;
+}
+
+.line5
+{
+	color: #2a56ac;
+	gradEndColor: #2a56ac;
+	gradStartColor: #2a56ac;
+}
+
+.poly1
+{
+	borderColor: #9ccd36;
+	borderThickness: 7;
+	color: #666;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly2
+{
+	color: #666;
+	gradEndColor: #e86f15;
+	gradStartColor: #e86f15;
+}
+
+.poly3
+{
+	color: #666;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly4
+{
+	color: #666;
+	gradEndColor: #00b7d3;
+	gradStartColor: #00b7d3;
+}
+
+.poly5
+{
+	borderColor: #2a56ac;
+	borderThickness: 7;
+	color: #666;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+Background
+{
+	gradEnd: #666;
+	gradStart: #666;
+}
+
+Grid
+{
+	color: #8d8d8d;
+}
+
+ZArrow
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: 1;
+	gradEndColor: #484f54;
+	gradStartAlpha: 1;
+	gradStartColor: #484f54;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderColor: #43352e;
+	borderThickness: 0;
+	gradEndColor: #2d1b14;
+	gradStartColor: #43352e;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.9;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLabel.strong
+{
+	color: #000;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #ff6e19;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	color: #ff7900;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+circle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	thickness: 7;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+frame.rectangle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	radius: 0;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+shape
+{
+	borderAlpha: 1;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+text.subtitle
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+text.title
+{
+	color: #fff808;
+	fontFamily: head;
+}
+
+]]></style>
+  <hash>-5539becb</hash>
+<sync><oid>p95gchadkmof</oid><title>untitled-prezi</title><hash>-5539becb</hash></sync><config>Mg7gVHfD3rtYEwypAw4T/r7F7WZf/XsZOK+E3E+xbTyawliYcKl94u4q9eYysQPo/yN4uDcvR/KDKd13heAqPS9jEabay+c9G0ozheXMLx1oa2HPEj+LRx0hXjs4DiDy4MiXTs9FUOPnWrvpUHmNkk8stZxgv6n5x2VdKltyafLtrwCTe9wGpWaQbuGC4aqkVVa0eHWoy4FtkGcLHZzIQgZrLyLVptn6QjTbCOrPn1aM26lRsJub8sSgvBbhrRvQRIwg+iX23ChvdGZRWdspK4amkV100RXRw2G0UXcqDBGqy6fuXR2skX6XXct2xqDp4MNxhN0x5ZsRBwQm8E3lEg==</config></zuiprezi>
